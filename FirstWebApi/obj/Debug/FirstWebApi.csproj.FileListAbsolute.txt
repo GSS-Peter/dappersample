@@ -1,0 +1,242 @@
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\FirstWebApi.dll.config
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\FirstWebApi.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\FirstWebApi.pdb
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\Antlr3.Runtime.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\Dapper.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\Newtonsoft.Json.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Net.Http.Formatting.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.Helpers.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.Http.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.Http.WebHost.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.Mvc.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.Optimization.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.Razor.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.WebPages.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.WebPages.Razor.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\WebGrease.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\Dapper.xml
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\Newtonsoft.Json.xml
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Net.Http.Formatting.xml
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.Helpers.xml
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.Http.xml
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.Http.WebHost.xml
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.Mvc.xml
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.Optimization.xml
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.Razor.xml
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.WebPages.xml
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\System.Web.WebPages.Razor.xml
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\Antlr3.Runtime.pdb
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Http.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\obj\Debug\FirstWebApi.csproj.AssemblyReference.cache
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\obj\Debug\FirstWebApi.csproj.CoreCompileInputs.cache
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\obj\Debug\FirstWebApi.csproj.CopyComplete
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\obj\Debug\FirstWebApi.dll
+C:\MyBox\OneDrive\Share Folder\GSS\銜接訓練教材\Dapper.net\dappersample-main\FirstWebApi\obj\Debug\FirstWebApi.pdb
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\FirstWebApi.dll.config
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\FirstWebApi.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\FirstWebApi.pdb
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\csc.exe
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\csc.exe.config
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\csc.rsp
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\csi.exe
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\csi.exe.config
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\csi.rsp
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Console.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Net.Http.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\vbc.exe
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\vbc.exe.config
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\vbc.rsp
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\Antlr3.Runtime.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\Dapper.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\Newtonsoft.Json.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.Helpers.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.Http.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.Mvc.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.Optimization.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.Razor.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.WebPages.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\WebGrease.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\Dapper.xml
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\Newtonsoft.Json.xml
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.Helpers.xml
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.Http.xml
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.Mvc.xml
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.Optimization.xml
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.Razor.xml
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.WebPages.xml
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\obj\Debug\FirstWebApi.csproj.AssemblyReference.cache
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\obj\Debug\FirstWebApi.csproj.CoreCompileInputs.cache
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\obj\Debug\FirstWebApi.csproj.CopyComplete
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\obj\Debug\FirstWebApi.dll
+C:\Users\ashe_chang\Downloads\dappersample-main\FirstWebApi\obj\Debug\FirstWebApi.pdb
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\FirstWebApi.dll.config
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\FirstWebApi.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\FirstWebApi.pdb
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\csc.exe
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\csc.exe.config
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\csc.rsp
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\csi.exe
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\csi.exe.config
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\csi.rsp
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.AppContext.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Console.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Net.Http.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Net.Sockets.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\vbc.exe
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\vbc.exe.config
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\vbc.rsp
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\Antlr3.Runtime.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\Dapper.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\Newtonsoft.Json.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Net.Http.Formatting.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.Helpers.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.Http.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.Http.WebHost.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.Mvc.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.Optimization.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.Razor.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.WebPages.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\WebGrease.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\Dapper.xml
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\Newtonsoft.Json.xml
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Net.Http.Formatting.xml
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.Helpers.xml
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.Http.xml
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.Http.WebHost.xml
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.Mvc.xml
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.Optimization.xml
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.Razor.xml
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.WebPages.xml
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\Antlr3.Runtime.pdb
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\obj\Debug\FirstWebApi.csproj.AssemblyReference.cache
+C:\Mend Sample Code\dappersample-main\FirstWebApi\obj\Debug\FirstWebApi.csproj.CoreCompileInputs.cache
+C:\Mend Sample Code\dappersample-main\FirstWebApi\obj\Debug\FirstWebApi.csproj.CopyComplete
+C:\Mend Sample Code\dappersample-main\FirstWebApi\obj\Debug\FirstWebApi.dll
+C:\Mend Sample Code\dappersample-main\FirstWebApi\obj\Debug\FirstWebApi.pdb

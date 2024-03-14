@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "dependencies": {
+    ".NETFramework,Version=v4.6.1": {
+      "Dapper": {
+        "type": "Direct",
+        "requested": "[2.0.123, 2.0.123]",
+        "resolved": "2.0.123",
+        "contentHash": "RDFF4rBLLmbpi6pwkY7q/M6UXHRJEOerplDGE5jwEkP/JGJnBauAClYavNKJPW1yOTWRPIyfj4is3EaJxQXILQ=="
+      }
+    }
+  }
+}
